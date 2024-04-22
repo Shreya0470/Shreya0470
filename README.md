@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreya0470
+- 👋 Hi, I’m Shreya470
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on web development projects
