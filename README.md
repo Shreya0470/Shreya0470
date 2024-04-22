@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Shreya0470
-- 👀 I’m interested in 
+- 👀 I’m interested in web dev
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me alumalashreya@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+  
 
 <!---
 Shreya0470/Shreya0470 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
